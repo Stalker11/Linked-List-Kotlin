@@ -6,8 +6,4 @@ fun main(args : Array<String>) {
     while (!list.isEmpty()){
         list.show()
     }
-
-    /*val listq = mutableListOf<Int>()
-    listq.removeAt()
-    listq.forEach {  }*/
 }
